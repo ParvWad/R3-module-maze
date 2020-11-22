@@ -1,1 +1,1 @@
-# R3-module-maze
+#for the first milestone I had to reaserch an algorithim that would make a random maze. Upon doing so I was able to find an algorithim called the recursive backtracking algorithim and following a youtube tutorial I was able to make my current program. 
